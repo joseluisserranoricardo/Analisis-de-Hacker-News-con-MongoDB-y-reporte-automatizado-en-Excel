@@ -72,7 +72,7 @@ Esto simula un flujo común en empresas donde se generan reportes periódicos pa
 
 - Existe una diferencia significativa entre el primer usuario y el resto del ranking.
 
-- El mayor volumen de posts ocurre entre 13:00 y 21:00 horas.
+- El mayor volumen de posts ocurre entre 14:00 y 21:00 horas.
 
 - Los temas más populares incluyen tecnología, economía y política.
 
