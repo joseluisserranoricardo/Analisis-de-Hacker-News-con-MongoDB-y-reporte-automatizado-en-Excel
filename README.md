@@ -54,25 +54,15 @@ Se analiza la distribución de publicaciones por hora del día para identificar 
 
 ## Generación automática de reportes
 
-El proyecto genera automáticamente un archivo: reporte_hackernews.xlsx
+El proyecto genera automáticamente un archivo: reporte_hackernews.xlsx. El reporte contiene múltiples hojas:
 
-El reporte contiene múltiples hojas:
+- dataset (contiene todos los datos descargados)
 
-- dataset
+- top_users (usuarios con mayor score acumulado)
 
-Contiene todos los datos descargados.
+- top_posts (posts con mayor score)
 
-- top_users
-
-Usuarios con mayor score acumulado.
-
-- top_posts
-
-Posts con mayor score.
-
-- activity_hour
-
-También se genera una gráfica automática en Excel que muestra la actividad por hora.
+- activity_hour (horas de mayor actividad y donde también se genera una gráfica automática en Excel que muestra la actividad por hora)
 
 Esto simula un flujo común en empresas donde se generan reportes periódicos para análisis de negocio
 
@@ -82,7 +72,7 @@ Esto simula un flujo común en empresas donde se generan reportes periódicos pa
 
 - Existe una diferencia significativa entre el primer usuario y el resto del ranking.
 
-- El mayor volumen de posts ocurre entre 14:00 y 21:00 horas.
+- El mayor volumen de posts ocurre entre 13:00 y 21:00 horas.
 
 - Los temas más populares incluyen tecnología, economía y política.
 
